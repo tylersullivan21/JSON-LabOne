@@ -43,19 +43,19 @@
 		"event"
 	],
 	"time": [
-		"never",
-		"never in their lifetime",
-		"never before",
-		"never in a million years"
+		"has never",
+		"has never in its lifetime",
+		"has never before",
+		"has never in a million years"
 	],
 	"breaking": [
 		"You",
 		"Your Friends",
 		"Your family",
-		"Your coworkers",
+		"Your coworker",
 		"Your dad",
 		"Your Mom",
-		"Your grandparents",
+		"Your grandparent",
 		"Your dog",
 		"Your Cat",
 		"Your fish"
@@ -80,7 +80,8 @@
 	],
 	"origin": [
 		"#name#, a #occupation#, was #always# #expecting# this #surprise# #random#",
-		"#breaking# have #time# #sensory# #description# #comparison# #this#"
+		"#breaking# #time# #sensory# #description# #comparison# #this#",
+		"#day# I #action# to #place# and met with my #people# to have  #actionTogether# "
 	],
 	"comparison": [
 		"like",
@@ -91,5 +92,40 @@
 		"this before",
 		"this ever",
 		"this in your lifetime"
+	],
+	"day": [
+		"Sunday",
+		"Monday",
+		"Tuesday",
+		"Wednesday",
+		"Thursday",
+		"Friday",
+		"Saturday"
+	],
+	"action": [
+		"drove",
+		"flew",
+		"swam",
+		"ran",
+		"walked "
+	],
+	"place": [
+		"Work",
+		"Japan",
+		"New York",
+		"School"
+	],
+	"people": [
+		"Boss",
+		"Parents",
+		"Friends",
+		"Co-Workers"
+	],
+	"actionTogether": [
+		"a coffee",
+		"a meeting",
+		"dinner",
+		"lunch",
+		"breakfast"
 	]
 }
