@@ -1,0 +1,95 @@
+{
+	"name": [
+		"James",
+		"Tyler",
+		"Connor",
+		"Isaiah",
+		"Drake",
+		"Copeland"
+	],
+	"occupation": [
+		"Doctor",
+		"Physical Therapist",
+		"Computer Scientist",
+		"Scientist",
+		"Sailor",
+		"Meteorologist"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"constantly",
+		"sometimes"
+	],
+	"expecting": [
+		"anticipating",
+		"looking for",
+		"imagining",
+		"thinking about"
+	],
+	"surprise": [
+		"amazing",
+		"awesome",
+		"life-changing",
+		"extravagant",
+		"once-in-a-lifetime"
+	],
+	"random": [
+		"game",
+		"console",
+		"book",
+		"tv show",
+		"bookstore",
+		"event"
+	],
+	"time": [
+		"never",
+		"never in their lifetime",
+		"never before",
+		"never in a million years"
+	],
+	"breaking": [
+		"You",
+		"Your Friends",
+		"Your family",
+		"Your coworkers",
+		"Your dad",
+		"Your Mom",
+		"Your grandparents",
+		"Your dog",
+		"Your Cat",
+		"Your fish"
+	],
+	"sensory": [
+		"heard",
+		"seen",
+		"smelled",
+		"taught",
+		"sang",
+		"rang",
+		"tried"
+	],
+	"description": [
+		"anything",
+		"something",
+		"nothing",
+		"anything at all",
+		"every little thing",
+		"barely anything",
+		"anything before"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #surprise# #random#",
+		"#breaking# have #time# #sensory# #description# #comparison# #this#"
+	],
+	"comparison": [
+		"like",
+		"compared to",
+		"similar to"
+	],
+	"this": [
+		"this before",
+		"this ever",
+		"this in your lifetime"
+	]
+}
