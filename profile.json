@@ -1,0 +1,14 @@
+{
+
+
+
+    "first_name"  :  "James",
+    "last_name"   :  "Sullivan",
+    "displayHandle"      :  "tylersullivan21",
+    "posts" :[ "Having a great semester @UCF so far!", "Cannot wait for the @UCFootball game tomorrow! #BeatUCONN", "I'm starting to understand git, github, and JSON! #Yay" ],
+    "age" : 20,
+    "active" : true
+
+
+
+}
